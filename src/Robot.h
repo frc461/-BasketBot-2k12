@@ -11,6 +11,7 @@ public:
 	Jaguar back_right_drive;
 
 	// Other Jaguar definitions
+	Jaguar turret;
 	Jaguar fire_wheel;
 	Jaguar intake;
 
@@ -39,6 +40,7 @@ private:
 		bld=1,
 		frd=2,
 		brd=3,
+		trt=6,
 		fw=8,
 		i=9
 

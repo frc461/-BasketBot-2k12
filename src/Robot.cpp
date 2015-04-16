@@ -11,6 +11,7 @@ Robot::Robot():
 
 	myRobot(front_left_drive, back_left_drive, front_right_drive, back_right_drive),
 
+	turret(trt),
 	fire_wheel(fw),
 	intake(i),
 
